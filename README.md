@@ -26,4 +26,5 @@ This repository contains an end-to-end AI system designed to classify MRI scans 
 * `brain_tumor_model.h5`: Trained model weights (managed via Git LFS).
 * `requirements.txt`: Environment dependencies.
 
+---
 **Developed by Deepneet Nanda | IIT Kharagpur**
