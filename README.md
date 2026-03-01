@@ -27,4 +27,4 @@ This repository contains an end-to-end AI system designed to classify MRI scans 
 * `requirements.txt`: Environment dependencies.
 
 ---
-**Developed by Deepneet Nanda | IIT Kharagpur**
+**Developed by Deepneet | IIT Kharagpur**
